@@ -199,4 +199,8 @@ PATH="$HOME/bin:$PATH" make -j 8 && \
 make install && \
 hash -r
 
-chown -R vagrant:vagrant $INSTALL_DIR/ffmpeg_build
+sudo chown -R vagrant:vagrant $INSTALL_DIR/ffmpeg_build
+
+cd /home/vagrant/extractor
+cmake .
+make
