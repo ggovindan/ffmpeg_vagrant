@@ -34,7 +34,7 @@ numpy==1.9.1
 paramiko==2.4.0
 pip==19.2
 progressbar ==2.3
-psutil ==2.2.1
+psutil ==5.6.6
 pyasn1 ==0.4.2
 pycparser ==2.18
 PyNaCl ==1.2.1
