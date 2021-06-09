@@ -11,7 +11,7 @@ celery ==3.1.18
 certifi==2017.11.5
 cffi ==1.11.5
 chardet==3.0.4
-cryptography==2.1.4
+cryptography==3.2
 Django ==1.11
 django-filter ==1.1.0
 djangorestframework ==3.11.2
