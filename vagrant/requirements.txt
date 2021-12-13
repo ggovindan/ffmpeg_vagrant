@@ -25,7 +25,7 @@ iso8601==0.1.12
 jmespath==0.9.3
 jsonfield ==2.0.2
 kombu==3.0.37
-lxml ==4.6.3
+lxml ==4.6.5
 m3u8 ==0.3.5
 meld3==1.0.2
 mercurial ==3.7.3
