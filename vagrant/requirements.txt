@@ -30,7 +30,7 @@ m3u8 ==0.3.5
 meld3==1.0.2
 mercurial ==3.7.3
 MySQL-python==1.2.5
-numpy==1.9.1
+numpy==1.22.0
 paramiko==2.4.0
 pip==19.2
 progressbar ==2.3
